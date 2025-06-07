@@ -1,0 +1,122 @@
+[
+  {
+    "days": 1,
+    "miles": 697.0,
+    "receipts": 2148.5,
+    "expected": 1421.07
+  },
+  {
+    "days": 1,
+    "miles": 462.0,
+    "receipts": 2047.57,
+    "expected": 1202.9
+  },
+  {
+    "days": 1,
+    "miles": 140.0,
+    "receipts": 255.99,
+    "expected": 150.34
+  },
+  {
+    "days": 1,
+    "miles": 1060.0,
+    "receipts": 501.67,
+    "expected": 658.14
+  },
+  {
+    "days": 1,
+    "miles": 252.75,
+    "receipts": 285.5,
+    "expected": 331.74
+  },
+  {
+    "days": 3,
+    "miles": 1158.0,
+    "receipts": 1107.4,
+    "expected": 1361.3
+  },
+  {
+    "days": 3,
+    "miles": 621.0,
+    "receipts": 214.08,
+    "expected": 779.66
+  },
+  {
+    "days": 3,
+    "miles": 289.0,
+    "receipts": 853.79,
+    "expected": 969.85
+  },
+  {
+    "days": 3,
+    "miles": 158.0,
+    "receipts": 1070.74,
+    "expected": 1183.16
+  },
+  {
+    "days": 3,
+    "miles": 177.0,
+    "receipts": 18.73,
+    "expected": 430.86
+  },
+  {
+    "days": 5,
+    "miles": 36.0,
+    "receipts": 2022.94,
+    "expected": 1410.58
+  },
+  {
+    "days": 5,
+    "miles": 948.0,
+    "receipts": 898.6,
+    "expected": 1499.68
+  },
+  {
+    "days": 5,
+    "miles": 210.0,
+    "receipts": 710.49,
+    "expected": 483.34
+  },
+  {
+    "days": 5,
+    "miles": 152.0,
+    "receipts": 2444.81,
+    "expected": 1523.75
+  },
+  {
+    "days": 5,
+    "miles": 828.0,
+    "receipts": 1606.84,
+    "expected": 1690.82
+  },
+  {
+    "days": 8,
+    "miles": 275.0,
+    "receipts": 2347.09,
+    "expected": 1454.47
+  },
+  {
+    "days": 8,
+    "miles": 15.0,
+    "receipts": 377.85,
+    "expected": 657.8
+  },
+  {
+    "days": 8,
+    "miles": 323.0,
+    "receipts": 46.48,
+    "expected": 703.45
+  },
+  {
+    "days": 8,
+    "miles": 123.0,
+    "receipts": 612.55,
+    "expected": 851.24
+  },
+  {
+    "days": 8,
+    "miles": 1025.0,
+    "receipts": 1031.33,
+    "expected": 2214.64
+  }
+]
