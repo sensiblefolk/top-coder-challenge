@@ -61,7 +61,7 @@ def test_cases():
 def verify_dependencies():
     """Check that all required files exist"""
     required_files = [
-        'calculate_reimbursement_fast.py',
+        'calculate_reimbursement_conservative.py',
         'run.sh',
         'public_cases.json'
     ]
