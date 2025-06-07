@@ -95,6 +95,11 @@ Comprehensive solution documentation
 ### `FILES_OVERVIEW.md`
 This file - quick reference for all files
 
+### `LICENSE`
+MIT License for the solution code
+- Open source license
+- Allows free use, modification, and distribution
+
 ### Original Challenge Files
 - `README.md` - Challenge description
 - `INTERVIEWS.md` - Employee hints about the system
